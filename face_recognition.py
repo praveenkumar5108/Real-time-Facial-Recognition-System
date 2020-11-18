@@ -1,5 +1,3 @@
-##Author:Amartya Kalapahar
-##Project: Absolute Face Technologies Internship Assignment
 
 # We will import openCV library for image processing, opening the webcam etc
 #Os is required for managing files like directories
@@ -65,7 +63,7 @@ while True:
         elif Id == 3:
             Id = "pradeep {0:.2f}%".format(round(100 - confidence, 2))
         elif Id == 4:
-            Id = "meruga {0:.2f}%".format(round(100 - confidence, 2))
+            Id = "Prasad {0:.2f}%".format(round(100 - confidence, 2))
            
         else:
             pass
